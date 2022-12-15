@@ -1,0 +1,16 @@
+{
+  "stories": [
+    {
+      "firstName": "hh",
+      "lastName": "h",
+      "emailAddress": "h@h.com",
+      "location": "h",
+      "celebrityName": "h",
+      "description": "h",
+      "storyLike": "3",
+      "storyDislike": "2",
+      "postDate": "2017-04-02T19:03:20-07:00",
+      "id": "1"
+    }
+  ]
+}
